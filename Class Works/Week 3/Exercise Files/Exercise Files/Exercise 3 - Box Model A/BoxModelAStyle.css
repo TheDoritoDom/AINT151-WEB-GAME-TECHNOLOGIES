@@ -1,0 +1,49 @@
+#container {
+
+  width:900px;
+  margin: 0 auto;
+}
+
+#header {
+  background-color: blue;
+  height: 70px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+}
+
+#leftmenu {
+  background-color: blue;
+  height: 500px;
+  width: 295px;
+  float: left;
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+}
+
+#maincontent {
+  margin-left: 10px;
+  background-color: blue;
+  width: 595px;
+  height: 500px;
+  float: left;
+  color: white;
+  text-align: center;
+font-family: fantasy;
+}
+
+.clear {
+  clear:both;
+}
+
+#footer {
+  background-color: blue;
+  margin-top: 10px;
+  height: 70px;
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+}

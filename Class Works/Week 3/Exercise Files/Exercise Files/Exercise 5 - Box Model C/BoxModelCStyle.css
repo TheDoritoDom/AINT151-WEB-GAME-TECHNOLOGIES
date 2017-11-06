@@ -1,0 +1,46 @@
+#container {
+  width: 1250px;
+}
+
+#header {
+  margin: 10px;
+  text-align: center;
+  background-color: green;
+  text-align: center;
+  font-family:monospace;
+
+}
+
+.leftbox {
+  background-color: lightgrey;
+  padding: 10px;
+  height: 81px;
+  width: 81px;
+  float: left;
+  margin: 10px;
+  text-align: center;
+  font-family:monospace;
+}
+
+.box {
+  background-color: green;
+  padding: 10px;
+  height: 81px;
+  width: 81px;
+  float: left;
+  margin: 10px;
+  text-align: center;
+  font-family:monospace;
+}
+
+.clear {
+  clear:both;
+}
+
+#footer {
+  background-color: green;
+  padding: 10px;
+  height: 30px;
+  text-align: center;
+  font-family:monospace;
+}
